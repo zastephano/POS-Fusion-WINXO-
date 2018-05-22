@@ -1,0 +1,36 @@
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe.config
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.pdb
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csprojResolveAssemblyReference.cache
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Form1.resources
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Properties.Resources.resources
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csproj.GenerateResource.Cache
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Documents\Visual Studio 2012\Projects\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.pdb
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe.config
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.exe
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.pdb
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.pdb
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csprojResolveAssemblyReference.cache
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Form1.resources
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Properties.Resources.resources
+C:\Users\CHARKOUN\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csproj.GenerateResource.Cache
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe.config
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.pdb
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.pdb
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csprojResolveAssemblyReference.cache
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Form1.resources
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Properties.Resources.resources
+C:\Users\STEPHANO\Desktop\Projet\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csproj.GenerateResource.Cache
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe.config
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.pdb
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.exe
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\bin\Debug\POS-Fusion.pdb
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csprojResolveAssemblyReference.cache
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Form1.resources
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS_Fusion.Properties.Resources.resources
+C:\Users\STEPHANO\Desktop\PROJET-STAGE\POS-Fusion\POS-Fusion\obj\Debug\POS-Fusion.csproj.GenerateResource.Cache
